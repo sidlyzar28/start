@@ -7,13 +7,22 @@
 {
 min-height:100vh;
 width:100%;
-background-image:  linear-
-gradient(rgba(4,9,30,0.7)),url(dimage/spaceskyl.png);
+/*background-image:  linear-
+gradient(rgba(4,9,30,0.7)),url(rimage/spaceskyl.png);
 background-position:center;
 background-size:cover;
 position:relative;
+*/
+background-color:rgba(4,9,30,0.7) ;
+color:blue;
 
 
 
+
+}
+
+.h1
+{
+    color:bisque;
 
 }
